@@ -1,0 +1,78 @@
+id,sex,birth_date,age,country,department,illness,group,infection_cause,arrival_date,infected_by,confirmation_date,recovery_date,status,need_ICU,other_pathologies,different_treatments_given,maximum_temperature,average_temperature,daily_medications,daily_medical_examinations
+1,m,1993-01-01,27,guatemala,guatemala,unknown,1,Viaje Italia/Madrid/Bogota/SanSalvador,16/03/2020,-99,2020-03-13,30/06/2021,1,True,True,9,40.5,37.8,4,7
+2,m,1935-01-01,85,guatemala,guatemala,unknown,2,Viaje Espana/Suiza/Francia,28/04/2020,-99,2020-03-15,22/09/2021,2,True,False,7,41.5,37.8,12,12
+3,m,1963-01-01,57,guatemala,guatemala,unknown,3,contacto paciente 2,19/03/2020,2,2020-03-18,17/04/2021,0,True,True,9,40.5,37.3,6,4
+4,m,1988-01-01,32,guatemala,guatemala,unknown,-99,Viaje Inglaterra/Nueva York,25/11/2020,-99,2020-03-16,04/02/2021,0,False,False,10,41.0,37.3,11,8
+5,f,1985-01-01,35,unknown,Sacatepequez,unknown,-99,Viaje Australia,12/08/2020,-99,2020-03-16,08/04/2021,1,False,True,9,41.5,37.8,2,5
+6,m,1990-01-01,30,guatemala,guatemala,unknown,2,Viaje Espana/Suiza/Francia,27/09/2020,2,2020-03-16,22/03/2021,0,False,False,9,40.5,36.3,4,6
+7,m,1988-01-01,32,guatemala,guatemala,unknown,2,Viaje Espana/Suiza/Francia,14/07/2020,2,2020-03-16,22/03/2021,1,False,False,10,39.5,38.3,4,2
+8,f,1970-01-01,50,guatemala,guatemala,unknown,3,contacto paciente 2,02/09/2020,2,2020-03-17,09/07/2021,0,True,True,3,40.5,38.3,7,10
+9,m,1997-01-01,23,guatemala,unknown,unknown,-99,Viaje Espana ,14/12/2020,-99,2020-03-19,06/08/2021,1,True,False,2,39.5,38.3,7,8
+10,m,1984-01-01,36,guatemala,unknown,unknown,-99,Viaje Costa Rica,19/10/2020,-99,2020-03-20,21/02/2021,0,False,True,5,40.5,36.8,3,6
+11,m,1991-01-01,29,guatemala,unknown,unknown,-99,Viaje Dinamarca/Espana/Francia/CostaRica,14/09/2020,-99,2020-03-20,10/01/2021,0,True,True,9,39.5,36.3,2,10
+12,f,1977-01-01,43,guatemala,Santa Rosa,unknown,-99,Viaje NuevaYork,11/06/2020,-99,2020-03-20,17/01/2021,0,False,True,8,39.0,36.8,3,7
+13,f,1969-01-01,51,guatemala,guatemala,unknown,-99,Contacto con paciente,18/09/2020,-99,2020-03-20,06/09/2021,1,False,False,6,40.5,38.3,3,4
+14,f,2017-01-01,3,unknown,unknown,unknown,3,contacto paciente 2,25/10/2020,16,2020-03-21,30/06/2021,1,False,False,10,39.0,36.8,9,8
+15,m,1974-01-01,46,guatemala,guatemala,unknown,-99,Viaje Colorado,20/08/2020,-99,2020-03-21,10/07/2021,0,False,False,4,41.0,36.3,2,5
+16,f,1995-01-01,25,guatemala,guatemala,unknown,3,contacto paciente 2,16/11/2020,2,2020-03-21,15/05/2021,1,False,False,5,41.5,38.3,5,3
+17,f,1984-01-01,36,guatemala,guatemala,unknown,3,contacto paciente 2,17/09/2020,2,2020-03-21,25/08/2021,0,False,False,6,39.0,36.3,8,12
+18,m,1962-01-01,58,guatemala,guatemala,unknown,-99,Contacto con paciente,04/05/2020,-99,2020-03-22,10/09/2021,0,True,False,8,40.0,38.3,2,12
+19,f,1990-01-01,30,guatemala,unknown,unknown,3,contacto paciente 2,07/11/2020,2,2020-03-22,26/03/2021,0,True,False,8,39.5,37.3,10,4
+20,f,1993-01-01,27,inglaterra,unknown,POTS,-99,Viaje LosAngeles,23/05/2020,-99,2020-03-23,18/05/2021,0,False,False,6,40.0,37.3,5,11
+21,m,1966-01-01,54,guatemala,guatemala,unknown,-99,unknown,29/07/2020,-99,2020-03-24,23/03/2021,0,False,False,10,41.0,36.3,4,5
+22,f,1987-01-01,33,guatemala,guatemala,unknown,-99,contacto con paciente,16/08/2020,-99,2020-03-25,30/04/2021,0,False,False,2,40.0,36.3,9,5
+23,f,1990-01-01,30,unknown,unknown,unknown,-99,Viaje Mexico,21/12/2020,-99,2020-03-25,10/06/2021,0,True,False,3,42.0,38.3,8,2
+24,f,1996-01-01,24,unknown,unknown,unknown,-99,contacto con paciente,14/10/2020,23,2020-03-25,06/04/2021,0,False,False,8,40.5,36.3,4,5
+25,m,1980-01-01,40,guatemala,Sacatepequez,unknown,-99,unknown,11/12/2020,-99,2020-03-26,21/02/2021,0,True,True,9,41.0,38.3,2,12
+26,m,1955-01-01,65,guatemala,guatemala,unknown,-99,Viaje Espana ,06/08/2020,-99,2020-03-27,27/07/2021,0,True,True,2,40.0,36.3,8,7
+27,f,1957-01-01,63,guatemala,guatemala,unknown,-99,Viaje Espana ,27/03/2020,-99,2020-03-27,19/07/2021,0,False,False,4,40.0,36.3,8,8
+28,m,1949-01-01,71,guatemala,guatemala,unknown,-99,contacto con paciente,03/10/2020,-99,2020-03-27,18/08/2021,0,True,True,11,39.0,36.3,3,10
+29,f,2000-01-01,20,guatemala,guatemala,unknown,4,Viaje Espana ,13/04/2020,-99,2020-03-27,01/07/2021,0,True,False,4,41.5,37.8,2,2
+30,f,1997-01-01,23,guatemala,guatemala,unknown,4,Viaje Espana ,10/12/2020,-99,2020-03-27,17/09/2021,0,False,True,9,42.0,38.3,9,12
+31,f,1995-01-01,25,guatemala,guatemala,unknown,4,Viaje Espana ,14/12/2020,-99,2020-03-27,11/05/2021,0,True,False,5,39.0,37.3,3,10
+32,m,1980-01-01,40,guatemala,guatemala,unknown,3,contacto paciente,06/10/2020,-99,2020-03-27,07/06/2021,0,False,False,11,42.0,37.8,5,10
+33,m,1957-01-01,63,guatemala,guatemala,unknown,3,contacto paciente 2,27/08/2020,2,2020-03-28,11/06/2021,0,False,True,7,42.0,36.3,2,11
+34,m,1950-01-01,70,guatemala,unknown,cardiaco,-99,contacto con turistas,30/07/2020,-99,2020-03-28,20/01/2021,0,False,False,10,40.0,36.3,3,9
+35,m,1978-01-01,42,guatemala,guatemala,unknown,3,contacto paciente 2,19/11/2020,33,2020-03-29,13/05/2021,0,False,True,11,41.5,36.3,4,10
+36,m,1991-01-01,29,guatemala,Totonicapan,unknown,-99,Deportado EstadosUnidos,11/06/2020,-99,2020-03-29,10/08/2021,0,True,True,10,40.0,37.8,2,3
+37,m,1991-01-01,29,guatemala,quetzaltenango,unknown,-99,Viaje Espana ,15/05/2020,-99,2020-03-31,04/07/2021,0,False,False,9,39.0,37.3,7,2
+38,f,1976-01-01,44,guatemala,guatemala,unknown,5,contacto con familia paciente 38,29/10/2020,-99,2020-03-30,15/08/2021,0,False,True,6,40.5,36.8,12,2
+39,m,1951-01-01,69,guatemala,guatemala,unknown,5,contacto con familia paciente 38,03/11/2020,-99,2020-03-31,11/09/2021,0,True,False,6,40.0,36.3,6,4
+40,m,1986-01-01,34,guatemala,unknown,unknown,-99,Viaje Espana ,11/09/2020,-99,2020-04-01,04/04/2021,0,True,True,3,41.5,36.8,3,7
+41,f,2012-01-01,8,guatemala,guatemala,unknown,6,contacto con paciente 32,05/10/2020,32,2020-04-01,02/09/2021,0,False,False,11,39.0,37.8,10,2
+42,f,2008-01-01,12,guatemala,guatemala,unknown,6,contacto con paciente 32,31/08/2020,32,2020-04-01,06/01/2021,0,True,False,6,41.0,36.3,7,7
+43,x,2005-01-01,15,guatemala,guatemala,unknown,6,contacto con paciente 32,29/04/2020,32,2020-04-01,20/02/2021,0,True,True,2,41.0,36.8,11,10
+44,f,1995-01-01,25,guatemala,guatemala,unknown,6,contacto con paciente 32,22/03/2020,32,2020-04-01,03/01/2021,0,True,True,5,41.5,37.8,12,5
+45,f,1979-01-01,41,guatemala,guatemala,unknown,6,contacto con paciente 32,11/06/2020,32,2020-04-01,17/01/2021,0,False,False,4,41.0,36.8,11,3
+46,m,1983-01-01,37,guatemala,guatemala,unknown,-99,Viaje Panama,24/06/2020,-99,2020-04-01,13/03/2021,0,False,False,4,42.0,36.8,7,11
+47,f,1974-01-01,46,guatemala,unknown,unknown,-99,Viaje Australia,26/03/2020,-99,2020-04-02,10/08/2021,0,False,True,5,39.0,38.3,8,3
+48,m,1987-01-01,33,corea,unknown,unknown,-99,unknown,18/06/2020,-99,2020-04-03,02/10/2021,0,False,False,3,40.5,37.3,7,10
+49,m,1989-01-01,31,guatemala,guatemala,unknown,-99,Deportado EstadosUnidos,07/06/2020,-99,2020-04-03,02/06/2021,0,False,False,8,41.5,36.8,2,11
+50,m,2004-01-01,16,guatemala,guatemala,unknown,47,contacto con paciente,13/10/2020,47,2020-04-03,21/08/2021,0,False,True,3,41.0,37.3,3,11
+51,m,,29,guatemala,guatemala,unknown,-99,unknown,23/12/2020,-99,2020-04-04,02/03/2021,0,False,True,5,40.0,36.3,3,2
+52,m,,29,guatemala,guatemala,unknown,-99,unknown,14/07/2020,-99,2020-04-04,10/01/2021,0,True,True,2,40.5,36.3,7,5
+53,m,,27,guatemala,guatemala,unknown,-99,unknown,04/05/2020,-99,2020-04-04,28/03/2021,0,False,True,6,39.0,36.8,2,7
+54,f,,32,guatemala,guatemala,unknown,-99,unknown,29/05/2020,-99,2020-04-04,12/08/2021,0,True,True,6,40.0,36.8,5,2
+55,f,,57,guatemala,guatemala,unknown,-99,unknown,21/09/2020,-99,2020-04-04,05/09/2021,0,False,False,5,40.5,37.3,6,11
+56,m,,60,guatemala,guatemala,unknown,-99,unknown,15/10/2020,-99,2020-04-04,28/03/2021,0,True,False,5,40.0,36.3,5,3
+57,f,,27,guatemala,guatemala,unknown,-99,unknown,16/11/2020,-99,2020-04-04,27/04/2021,0,False,False,3,40.5,38.3,2,4
+58,m,,59,guatemala,unknown,unknown,-99,unknown,25/03/2020,-99,2020-04-04,01/01/2021,0,True,False,5,42.0,36.8,6,8
+59,m,,40,guatemala,unknown,unknown,-99,unknown,15/11/2020,-99,2020-04-04,28/08/2021,0,True,True,9,41.5,36.3,11,12
+60,m,,39,guatemala,chimaltenango,unknown,-99,unknown,20/10/2020,-99,2020-04-04,02/09/2021,0,True,True,3,41.0,36.3,7,4
+61,f,,49,guatemala,chimaltenango,unknown,-99,unknown,05/07/2020,-99,2020-04-04,19/09/2021,0,False,False,6,41.5,38.3,4,5
+62,m,,53,guatemala,chimaltenango,unknown,-99,unknown,23/12/2020,-99,2020-04-05,26/01/2021,0,True,False,8,41.0,36.3,10,9
+63,m,,47,guatemala,chimaltenango,unknown,-99,unknown,12/04/2020,-99,2020-04-05,19/07/2021,0,True,False,2,39.0,37.3,11,4
+64,f,,45,guatemala,chimaltenango,unknown,-99,unknown,25/05/2020,-99,2020-04-05,02/10/2021,0,False,True,2,39.5,38.3,7,12
+65,f,,48,guatemala,chimaltenango,unknown,-99,unknown,18/07/2020,-99,2020-04-05,27/05/2021,0,True,False,7,39.5,37.8,2,2
+66,f,,22,guatemala,chimaltenango,unknown,-99,unknown,28/09/2020,-99,2020-04-05,06/10/2021,0,False,True,9,40.0,36.8,9,2
+67,f,,33,guatemala,guatemala,unknown,-99,unknown,13/06/2020,-99,2020-04-05,11/02/2021,0,False,False,7,40.5,36.3,7,6
+68,f,,47,guatemala,guatemala,unknown,-99,unknown,15/06/2020,-99,2020-04-05,10/08/2021,0,False,False,4,41.5,37.3,11,10
+69,m,,52,guatemala,guatemala,unknown,-99,unknown,24/08/2020,-99,2020-04-05,03/05/2021,0,True,False,8,42.0,36.8,6,4
+70,m,,81,guatemala,unknown,cardiopatía,-99,unknown,01/07/2020,-99,2020-04-05,29/05/2021,2,False,True,8,41.5,36.8,3,8
+71,m,,22,guatemala,chimaltenango,unknown,-99,unknown,24/10/2020,-99,2020-04-06,24/07/2021,0,True,False,2,41.0,38.3,6,9
+72,m,,27,guatemala,chimaltenango,unknown,-99,unknown,09/12/2020,-99,2020-04-06,09/02/2021,0,False,False,8,40.5,37.3,4,5
+73,f,,39,guatemala,chimaltenango,unknown,-99,unknown,31/05/2020,-99,2020-04-06,16/04/2021,0,True,True,4,39.5,38.3,5,3
+74,m,,76,guatemala,Sacatepequez,unknown,-99,unknown,21/11/2020,-99,2020-04-06,12/09/2021,0,False,False,8,42.0,37.3,9,7
+75,f,,71,guatemala,unknown,cancer,-99,contacto con paciente,29/05/2020,6,2020-04-07,13/07/2021,0,False,True,5,41.5,36.8,3,5
+76,m,,47,unknown,unknown,unknown,-99,unknown,02/12/2020,-99,2020-04-07,25/08/2021,0,True,False,8,41.5,37.8,8,6
+77,x,,32,unknown,unknown,unknown,-99,unknown,17/03/2020,-99,2020-04-07,12/03/2021,0,False,True,11,41.0,38.3,10,8
