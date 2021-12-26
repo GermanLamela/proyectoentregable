@@ -60,9 +60,32 @@ En este proyecto se han implementado las siguientes funciones, que están clasif
 ### \<patients_guatemala_covid\>
 
 * **<lee_fichero>**: Hace una lectura del fichero.
+* **<filtra_por_genero>**: Divide el fichero según el género.
+* **<conjunto_registros>**: Divide a todos los ingresados en dos conjuntos segun su id.
+* **<calcula_porcentaje_de_guatemaltecos>**: Calcula el porcentaje de personas cuya nacionalidad es guatemalteca.
+* **<calcula_id_pocos_tratamientos_dados>**: Calcula los pacientes que han recibido menos de 3 tratamientos distintos.
+* **<calcula_promedio_de_temperatura_maxima>**: Calcula el promedio de la temperatura máxima de los pacientes.
+* **<calcula_id_con_mas_tratamientos_diferentes>**: Obtiene el id de la persona que ha recibido más tratamientos diferentes
+* **<obtener_lista_de_registros>**: Obtiene los tres primeros pacientes de la lista ordenados según su id
+* **<agrupa_por_pais>**: Agrupa a los pacientes sengún su nacionalidad.
+* **<obten_media_edad_por_pais>**: Calcula la media de edad por país.
+* **<calcula_media_edad>**: Calcula la media de edad.
+* **<agrupa_por_distinto_tratamiento>**: Agrupa a los pacientes sengún su nacionalidad.
+* **<obten_media_revisiones_diarias_segun_distintos_tratamientos>**: Obtiene la media de las revisiones diarias según la cantidad de distintos tratamientos.
+* **<calcula_media_revisiones_diarias>**: Calcula la media de las revisiones médicas diarias.
 
 
 ### \<patients_guatemala_covid_test\>
 
 * **<test_lee_fichero>**: Prueba de la lectura del fichero.
-
+* **<mostrar_fichero>**: Muestra el fichero del archivo csv.
+* **<mostrar_diccionario>**: Muestra el diccionaro.
+* **<test_filtrar_por_genero>**: Prueba del filtrado por género.
+* **<test_conjunto_registros>**: Prueba de la división de los ingresados en dos conjuntos.
+* **<test_calcula_porcentaje_de_guatemaltecos>**: Prueba del porcentaje de guatemaltecos.
+* **<test_calcula_id_pocos_tratamientos_dados>**: Prueba del calculo de los pacientes con menos tratamientos distintos
+* **<test_calcula_promedio_de_temperatura_maxima>**: Pueba del calculo del promedio de la temperatura máxima.
+* **<est_calcula_id_con_mas_tratamientos_diferentes>**: Prueba del calculo del paciente con más tratamientos diferentes.
+* **<test_obtener_lista_de_registros>**: Prueba de la obtención de los 3 primeros pacientes de la lista según su id.
+* **<test_calcula_media_de_edad>**: Prueba del calculo de la media de edad.
+* **<test_obten_media_edad_por_pais>**: Prueba del calculo de la media de edad según su país.
